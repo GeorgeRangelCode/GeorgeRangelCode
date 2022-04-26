@@ -1,1 +1,3 @@
-# Software Developer React.Js ⚛️
+# Hi 👋, I'm Jorge
+
+- Software Developer React.Js ⚛️
